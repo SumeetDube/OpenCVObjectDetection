@@ -68,4 +68,4 @@ YOLO is a Convolutional Neural Network (CNN), a type of deep neural network, for
 ![](model/image.png)
 
 ------------------
-**Have a good day , bye bye ** 
+**Have a good day , bye bye** 
