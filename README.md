@@ -60,7 +60,7 @@ Here's what the script does:
     - It displays the resulting frame with the bounding boxes.
 6. Finally, it releases the video capture object and closes all windows.
 
-###### YoloV3:
+### YoloV3:
 
 The YOLO machine learning algorithm uses features learned by a deep convolutional neural network to detect objects located in an image.  
 
