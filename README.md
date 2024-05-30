@@ -66,3 +66,6 @@ The YOLO machine learning algorithm uses features learned by a deep convolutiona
 
 YOLO is a Convolutional Neural Network (CNN), a type of deep neural network, for performing object detection in real time. CNNs are classifier-based systems that process input images as structured arrays of data and recognize patterns between them. YOLO has the advantage of being much faster than other networks and still maintains accuracy. It allows the object detection model to look at the whole image at test time. This means that the global context in the image informs the predictions. YOLO and other convolutional neural network algorithms “score” regions based on their similarities to predefined classes.  
 ![](model/image.png)
+
+------------------
+**Have a good day , bye bye ** 
