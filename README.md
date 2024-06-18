@@ -5,6 +5,8 @@
 2. Installation and running
 3. Working
 
+![](model/image.png)
+
 ## Overview
 
 OpenCV, short for Open Source Computer Vision Library, is an open-source computer vision and machine learning software library. It provides various tools and functions for tasks such as image and video processing, object detection, facial recognition, and more. It's widely used in academia and industry for a variety of applications, from robotics to augmented reality.
@@ -65,7 +67,7 @@ Here's what the script does:
 The YOLO machine learning algorithm uses features learned by a deep convolutional neural network to detect objects located in an image.  
 
 YOLO is a Convolutional Neural Network (CNN), a type of deep neural network, for performing object detection in real time. CNNs are classifier-based systems that process input images as structured arrays of data and recognize patterns between them. YOLO has the advantage of being much faster than other networks and still maintains accuracy. It allows the object detection model to look at the whole image at test time. This means that the global context in the image informs the predictions. YOLO and other convolutional neural network algorithms “score” regions based on their similarities to predefined classes.  
-![](model/image.png)
+
 
 ------------------
 **Have a good day , bye bye** 
